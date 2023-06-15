@@ -1,11 +1,19 @@
 <section id="gallery" class="gallery">
-      <div class="container">
 
+  <!-- heading -->
+  <div class="container-fluid bg-greey">
+    <div class="row mb-5 py-5">
+      <div class="col-12 text-center text-light">
         <div class="section-title">
-          <h2>Gallery</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
+          <h2 class="h1 fw-bold text-primary">Gallery</h2>
+          <p class="col-12 text-center text-dark">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>        
+      </div>
+    </div>
+  </div>
 
+  <!-- content -->
+      <div class="container">
         <div class="row no-gutters">
 
           <div class="col-lg-3 col-md-4">

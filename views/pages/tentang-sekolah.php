@@ -1,10 +1,10 @@
 <section id="about" class="about">
   <!-- heading -->
-  <div class="container-fluid bg-dark">
+  <div class="container-fluid bg-secondary">
     <div class="row mb-5 py-5">
       <div class="col-12 text-center text-light">
         <h2 class="h1 fw-bold">Tentang Sekolah</h2>
-        <p class="col-10 text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum architecto fuga atque repellat reiciendis? Dolorem laborum sed ipsum consequuntur aliquid vitae facere neque, modi vero? Placeat, voluptatem! Fugiat, culpa deserunt.
+        <p class="text-center p-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum architecto fuga atque repellat reiciendis? Dolorem laborum sed ipsum consequuntur aliquid vitae facere neque, modi vero? Placeat, voluptatem! Fugiat, culpa deserunt.
         </p>
       </div>
     </div>

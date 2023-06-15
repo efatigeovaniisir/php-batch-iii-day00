@@ -1,22 +1,17 @@
 <section id="services" class="services section-bg">
 
    <!-- heading -->
-   <div class="container-fluid bg-dark">
+   <div class="container-fluid bg-secondary">
     <div class="row mb-5 py-5">
       <div class="col-12 text-center text-light">
-        <h2 class="h1 fw-bold">Layanan</h2>
-        <p><a href="?page=beranda">Beranda</a> / Layanan</p>
+        <h2 class="h1 fw-bold text-dark">Layanan</h2>
+        <p class="text-center p-2">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
       </div>
     </div>
   </div>
 
   <!-- content -->
       <div class="container">
-
-        <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6">

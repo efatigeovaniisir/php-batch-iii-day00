@@ -1,8 +1,8 @@
 <section id="contact" class="contact">
-      <div class="container">
+      <div class="container p-5">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2>Kontak</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -16,7 +16,7 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
+                <h4>Lokasi:</h4>
                 <p>A108 Adam Street, New York, NY 535022</p>
               </div>
 
@@ -28,7 +28,7 @@
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
+                <h4>No Hp:</h4>
                 <p>+1 5589 55488 55s</p>
               </div>
 
@@ -58,7 +58,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Kirim</button></div>
             </form>
 
           </div>
